@@ -6,6 +6,11 @@ das
 d
 asdas
 ds
+dsdsadsadadda
+1
+1
+
+
 da
 npm run build
 cd dist
