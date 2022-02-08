@@ -1,6 +1,12 @@
 #强制推送
 #!/usr/bin/env bash
 set -e
+da
+das
+d
+asdas
+ds
+da
 npm run build
 cd dist
 touch .nojekyll
